@@ -18,6 +18,7 @@
 6. Конец
 
 ### Блок-схема
+![](https://github.com/user-attachments/assets/7741914a-dca5-4b52-ac67-28d74d735854)
 [Блок-схема, созданная в draw.io](https://drive.google.com/file/d/16WqTzOMD7LErdJDjhc0w4fKlIGarDNLW/view?usp=drive_link)
 ![](<img width="633" height="596" alt="image" src="https://github.com/user-attachments/assets/607802c5-33d7-4297-804d-066cf5eac5d3" />)
 
