@@ -18,9 +18,8 @@
 6. Конец
 
 ### Блок-схема
-![](https://github.com/user-attachments/assets/7741914a-dca5-4b52-ac67-28d74d735854)
-[Блок-схема, созданная в draw.io](https://drive.google.com/file/d/16WqTzOMD7LErdJDjhc0w4fKlIGarDNLW/view?usp=drive_link)
-![](<img width="633" height="596" alt="image" src="https://github.com/user-attachments/assets/607802c5-33d7-4297-804d-066cf5eac5d3" />)
+[Блок-схема, созданная в draw.io](https://drive.google.com/file/d/159q64y6Vzy-zjMdXwp1i-9iCqzu_hGN8/view?usp=drive_link)
+![](https://github.com/user-attachments/assets/7196d945-d535-484a-bb41-11ee58a8f841)
 
 ## 2. Реализация программы 
 ## 3. Результаты работы программы 
